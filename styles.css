@@ -1,8 +1,42 @@
-
 /* Your CSS Code here. */
-td,th{
-    border: 1px solid black;
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-table{
-    
+td,
+th {
+  border: 1px solid black;
+  width: 1%;
+}
+table {
+  border-collapse: collapse;
+  width: 80%;
+}
+.c1 th {
+  background-color: rgb(161, 62, 62);
+  color: white;
+  text-align: start;
+}
+.c2 td {
+  background-color: rgb(202, 131, 131);
+  color: white;
+  text-align: end;
+}
+.c3 td {
+  background-color: rgb(245, 219, 219);
+  color: black;
+  text-align: end;
+}
+.c4 td {
+  background-color: rgb(209, 199, 199);
+  color: black;
+  text-align: end;
+}
+#r1,
+#r2,
+#r3 {
+  text-align: start;
+}
+div {
+  margin-left: 15%;
+  margin-top: 20%;
 }
