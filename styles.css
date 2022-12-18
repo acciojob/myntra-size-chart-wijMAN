@@ -2,7 +2,7 @@
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-/* td,
+td,
 th {
   border: 1px solid black;
   width: 1%;
@@ -39,4 +39,4 @@ table {
 div {
   margin-left: 15%;
   margin-top: 20%;
-} */
+}
